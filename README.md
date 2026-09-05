@@ -16,7 +16,7 @@ Most of the functions are in `main.py` and have comments explaining what they ar
 
 This is what is currently looks like:
 
-![Watch the Video]("https://raw.githubusercontent.com/Binit06/stable-fluids/main/fluid_simulation.mp4")
+<video src="fluid_simulation.mp4" controls="controls" muted="muted" width="100%"></video>
 
 It's not the prettiest fluid simulation ever made, but it works well enough for me to see what the Stable Fluids method is doing
 
