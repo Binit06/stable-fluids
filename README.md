@@ -16,7 +16,7 @@ Most of the functions are in `main.py` and have comments explaining what they ar
 
 This is what is currently looks like:
 
-<video src="fluid_simulation.mp4" controls="controls" muted="muted" width="100%"></video>
+https://github.com/user-attachments/assets/d003cacc-9555-4331-8b21-3a252f47b68c
 
 It's not the prettiest fluid simulation ever made, but it works well enough for me to see what the Stable Fluids method is doing
 
